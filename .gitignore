@@ -50,3 +50,6 @@ Thumbs.db
 *.mov
 *.wmv
 
+airflow-data/
+logs/
+venv/
